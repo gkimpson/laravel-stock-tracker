@@ -1,7 +1,7 @@
 # LARACASTS TUTORIAL #
 https://laracasts.com/series/build-a-stock-tracker-app/episodes/1
 
-Build a CLI app that tracks availability and price of certain products across multiple retailers
+Build a CLI app that tracks availability and price of certain products across multiple retailers, each product might be availale from certain retailers, but we have to check if it's in stock.
 
 - stock
 - availability
@@ -9,11 +9,13 @@ Build a CLI app that tracks availability and price of certain products across mu
 - retailers
 
 ### Products
-
-- Nintent Switch
+- Nintento Switch (Neon)
 
 ### Retailers
+- BestBuy
 - Amazon
+- Target
+- Walmart
 - Tesco
 
 ### Stock
